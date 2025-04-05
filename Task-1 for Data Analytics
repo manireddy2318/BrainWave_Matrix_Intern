@@ -1,0 +1,46 @@
+Task-1
+Create a sales data analysis of Commercial Store.
+
+About the Task:
+
+Project Title: Superstore Sales Performance Analysis using Power BI
+Organization: Brainwave Matrix Solutions
+Tool Used: Microsoft Power BI
+Dataset: Superstore Final Dataset (CSV Format) from Kaggle website.
+
+Project Description:
+This project involved creating an interactive dashboard using Power BI to analyze the sales performance of a retail superstore. The primary objective was to identify trends, patterns, and key insights related to sales and product performance across various regions, categories, and customer segments.
+
+Key Objectives:
+Analyze overall sales and quantities sold across different product categories and regions.
+
+Identify top-performing and underperforming sub-categories.
+
+Track trends over time to understand seasonal or regional patterns.
+
+Estimate profits using calculated fields (as the dataset did not include a direct profit column).
+
+Build KPIs for better executive-level understanding.
+
+Techniques & Features Used:
+Data Cleaning and Modeling in Power BI.
+
+Use of Power Query Editor to transform raw data.
+
+Created calculated columns and measures using DAX (Data Analysis Expressions).
+
+Designed interactive charts: bar, line, pie, and slicers for dynamic filtering.
+
+Built Estimated Profit using custom formula:
+
+Profit = Sales × Fixed Profit Margin (e.g., 20%)
+
+Integrated multiple filters to allow stakeholders to drill down by Region, Segment, and Product Category.
+
+Outcome:
+Delivered a professional, user-friendly dashboard that can help businesses monitor key performance metrics.
+
+Gained hands-on experience in dashboard development, business intelligence, and data storytelling.
+
+Strengthened ability to derive actionable insights from raw data using Power BI.
+
